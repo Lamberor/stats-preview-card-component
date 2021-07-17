@@ -5,11 +5,12 @@ This is my solution to the [Stats preview card component challenge on Frontend M
 ## Screenshot
 
 ### Desktop
+
 ![Desktop](./screenshot/desktop.png)
 
 ### Mobile
-![Mobile-1](./screenshot/mobile-1.png)
-![Mobile-2](./screenshot/mobile-2.png)
+
+![Mobile](./screenshot/mobile.png)
 
 ## Links
 
