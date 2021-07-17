@@ -154,6 +154,20 @@ body {
   }
 }
 
+@media (min-width: 900px) {
+  .container {
+    height: 45vh;
+    margin: 10em 6em 0;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    height: 35vh;
+    margin: 12em 8em 0;
+  }
+}
+
 /* @media (min-width: 625px) {
 
   main {
